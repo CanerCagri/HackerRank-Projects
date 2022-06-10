@@ -92,3 +92,16 @@ iOSInjectionProject/
 3-HackerRank-Project/3-HackerRank-Project.xcodeproj/project.xcworkspace/contents.xcworkspacedata
 .DS_Store
 .DS_Store
+8-HackerRank-Project/8-HackerRank-Project.xcodeproj/project.pbxproj
+8-HackerRank-Project/8-HackerRank-Project/Info.plist
+8-HackerRank-Project/8-HackerRank-Project/SceneDelegate.swift
+8-HackerRank-Project/8-HackerRank-Project/Info.plist
+8-HackerRank-Project/8-HackerRank-Project/Base.lproj/Main.storyboard
+8-HackerRank-Project/8-HackerRank-Project/Base.lproj/LaunchScreen.storyboard
+8-HackerRank-Project/8-HackerRank-Project/Assets.xcassets/Contents.json
+8-HackerRank-Project/8-HackerRank-Project/Assets.xcassets/AppIcon.appiconset/Contents.json
+8-HackerRank-Project/8-HackerRank-Project/AppDelegate.swift
+8-HackerRank-Project/8-HackerRank-Project/Assets.xcassets/AccentColor.colorset/Contents.json
+8-HackerRank-Project/8-HackerRank-Project.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+8-HackerRank-Project/8-HackerRank-Project.xcodeproj/project.pbxproj
+8-HackerRank-Project/8-HackerRank-Project.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
