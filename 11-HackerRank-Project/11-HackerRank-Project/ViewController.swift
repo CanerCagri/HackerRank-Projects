@@ -28,22 +28,20 @@ class ViewController: UIViewController {
     
     func kangoroProject(x1: Int, v1: Int, x2: Int, v2: Int) -> String {
         var firstKango = x1 + v1
-        var secondKango = x2 + v2
-        
-        for _ in 1...100 where firstKango < secondKango {
-            firstKango = firstKango + v1
-            secondKango = secondKango + v2
-            
-            if firstKango == secondKango {
-                return "YES"
-            }
-        }
-        
-        if firstKango > secondKango {
-            return "NO"
-        }
-        
-        return "NO"
+            var secondKango = x2 + v2
+           
+           for i in 1...10000  {
+               
+               if firstKango < secondKango {
+                   firstKango = firstKango + v1
+                   secondKango = secondKango + v2
+               } else if firstKango == secondKango {
+                   return "YES"
+               } else {
+                   return "NO"
+               }
+           }
+           return "NO"
     }
     
     
